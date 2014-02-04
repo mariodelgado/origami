@@ -8,7 +8,7 @@ Most designers today create static mockups to communicate app ideas. But increas
 
 Modifications in this Fork
 ---------------
-- Scroll Listen patch that allows evets to be spawned byt up or down scroll direction.
+- Scroll Listen patch that allows evets to be spawned by up or down scroll direction.
 - Phone (With iPad) with iPad frame added
 - Additional patches from kinime.net and qcdesigners.com
 - Swich1, a sqitch with a timer delay (untested)
