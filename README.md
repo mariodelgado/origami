@@ -5,6 +5,15 @@ Origami is a free toolkit for Quartz Composer that makes interactive design prot
 
 Most designers today create static mockups to communicate app ideas. But increasingly apps are anything but static, which means as designers we need a better tool for interaction design—this is where Origami comes in.
 
+
+Modifications in this Fork
+---------------
+- Scroll Listen patch that allows evets to be spawned byt up or down scroll direction.
+- Phone (With iPad) with iPad frame added
+- Additional patches from kinime.net and qcdesigners.com
+- Swich1, a sqitch with a timer delay (untested)
+
+
 Getting Origami
 ---------------
 
