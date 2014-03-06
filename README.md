@@ -24,7 +24,7 @@ If you'd prefer to stay up-to-date with the bleeding edge, you can clone this re
 ```sh
 mkdir ~/Workspace
 cd ~/Workspace
-git clone https://github.com/facebook/origami.git
+git clone https://github.com/mariodelgado/origami.git
 mkdir -p ~/Library/Graphics/Quartz\ Composer\ Patches
 ln -s `pwd`/origami/Origami.plugin ~/Library/Graphics/Quartz\ Composer\ Patches
 ln -s `pwd`/origami/Origami ~/Library/Graphics/Quartz\ Composer\ Patches
